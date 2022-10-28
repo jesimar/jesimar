@@ -86,7 +86,7 @@ Sou professor na Universidade Federal de Lavras (UFLA)
 	<summary><b>🛠️ Alguns links para meus perfis em outras plataformas:</b></summary>
 	<br/>
 	<ul>
-		<li> [Meu Perfil no Lattes](http://lattes.cnpq.br/0006398308745834): Plataforma para divulgação do meu currículo acadêmico. </li> 
+		<li> <a href="http://lattes.cnpq.br/0006398308745834">Meu Perfil no Lattes</a>: Plataforma para divulgação do meu currículo acadêmico. </li> 
 		<li> [Meu Perfil no Google Scholar](https://scholar.google.com.br/citations?user=dnfjNm4AAAAJ&hl=pt-BR): Plataforma para análise de meus artigos científicos. </li>
 		<li> [Meu Perfil no ORCID](https://orcid.org/0000-0002-1776-1514): Plataforma para divulgação das minhas contribuições acadêmicas. </li>
 		<li> [Meu Perfil no ResearchGate](https://www.researchgate.net/profile/Jesimar-Arantes): Plataforma para divulgação de conteúdo acadêmico relacionado a pesquisa. </li>
