@@ -9,6 +9,10 @@
 	</table>
 </center>
 
+### Sejam todas e todos bem-vindos!
+
+Sou professor na Universidade Federal de Lavras (UFLA)
+
 <details>
 	<summary><b>🛠️ Algumas linguagens que utilizo:</b></summary>
 	<br/>
@@ -23,14 +27,6 @@
 	<img align="center" width="60" height="60" src="./view/xml.png" alt="xml">
 	<img align="center" width="60" height="60" src="./view/json.png" alt="json">
 	<img align="center" width="70" height="60" src="./view/blockly.png" alt="blockly">
-</details>
-
-<details>
-	<summary><b>🛠️ Alguns Pacotes e Bibliotecas que utilizo:</b></summary>
-	<br/>
-	<img align="center" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" />
-	<img align="center" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="pandas" />
-	<img align="center" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" alt="pytest" />
 </details>
 
 <details>
@@ -78,23 +74,31 @@
 	<img align="center" width="60" height="60" src="./view/tinkercad.png" alt="tinkercad">
 </details>
 
-### Sejam todas e todos bem-vindos!
+<details>
+	<summary><b>🛠️ Alguns pacotes e bibliotecas que utilizo:</b></summary>
+	<br/>
+	<img align="center" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" />
+	<img align="center" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="pandas" />
+	<img align="center" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" alt="pytest" />
+</details>
 
-Sou Professor na Universidade Federal de Lavras (UFLA)
-
+<details>
+	<summary><b>🛠️ Alguns links para meus perfis em outras plataformas:</b></summary>
+	<br/>
 * [Meu Perfil no Lattes](http://lattes.cnpq.br/0006398308745834): Plataforma para divulgação do meu currículo acadêmico.
 * [Meu Perfil no Google Scholar](https://scholar.google.com.br/citations?user=dnfjNm4AAAAJ&hl=pt-BR): Plataforma para análise de meus artigos científicos.
-* [Meu Perfil no ORCID](https://orcid.org/0000-0002-1776-1514)
-* [Meu Perfil no ResearchGate](https://www.researchgate.net/profile/Jesimar-Arantes)
+* [Meu Perfil no ORCID](https://orcid.org/0000-0002-1776-1514): Plataforma para divulgação das minhas contribuições acadêmicas.
+* [Meu Perfil no ResearchGate](https://www.researchgate.net/profile/Jesimar-Arantes): Plataforma para divulgação de conteúdo acadêmico relacionado a pesquisa.
 * [Meu Perfil no Slideshare](https://pt.slideshare.net/JesimarArantes): Plataforma para divulgação de alguns materiais (textos) produzidos.
 * [Meu Repositório no Github](https://github.com/jesimar): Plataforma para divulgação de códigos e projetos desenvolvidos.
 * [Meu Repositório no Gitlab](https://gitlab.com/jesimar): Plataforma para divulgação de alguns códigos e projetos desenvolvidos.
 * [Meu Canal no Youtube - Pessoal](https://www.youtube.com/c/JesimarArantes): Plataforma para divulgação de vídeos pessoais e de pesquisa.
 * [Meu Canal no Youtube - Trabalho](https://www.youtube.com/@prof.jesimararantes): Plataforma para divulgação de vídeos relacionados ao trabalho.
-* [Meu Perfil no Greefoot](https://www.greenfoot.org/users/56822): Para divulgação de simulações feitas sobre o ambiente greenfoot.
-* [Meu Perfil no Replit](https://replit.com/@jesimar): Para divulgação de alguns códigos e projetos.
-* [Meu Blog - Pessoal](https://jesimararantes.blogspot.com/): Para divulgação de alguns conteúdos avulços (super desatualizado).
-* [Meu Perfil no Openclipart](https://openclipart.org/artist/Jesimar%20da%20Silva%20Arantes): Para divulgação de algumas imagens livres que criei.
+* [Meu Perfil no Greefoot](https://www.greenfoot.org/users/56822): Plataforma para divulgação de aplicações desenvolvidas no ambiente Greenfoot.
+* [Meu Perfil no Replit](https://replit.com/@jesimar): Plataforma para divulgação de alguns códigos e projetos.
+* [Meu Blog - Pessoal](https://jesimararantes.blogspot.com/): Plataforma para divulgação de alguns conteúdos avulsos (desatualizado).
+* [Meu Perfil no Openclipart](https://openclipart.org/artist/Jesimar%20da%20Silva%20Arantes): Plataforma para divulgação de algumas imagens livres.
+</details>
 
 ##
  
