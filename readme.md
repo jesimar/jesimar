@@ -20,9 +20,9 @@
 	<img align="center" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" />
 	<img align="center" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" />
 	<img align="center" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="markdown" />
-	<img align="center" width="60" height="00" src="./view/xml.png" alt="xml">
-	<img align="center" width="60" height="00" src="./view/json.png" alt="json">
-	<img align="center" width="60" height="00" src="./view/blockly.png" alt="blockly">
+	<img align="center" width="60" height="60" src="./view/xml.png" alt="xml">
+	<img align="center" width="60" height="60" src="./view/json.png" alt="json">
+	<img align="center" width="60" height="60" src="./view/blockly.png" alt="blockly">
 </details>
 
 <details>
@@ -46,36 +46,36 @@
 	<img align="center" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" alt="subversion" />
 	<img align="center" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" />
 	<img align="center" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" />
-	<img align="center" width="60" height="00" src="./view/alice.png" alt="alice">
-	<img align="center" width="60" height="00" src="./view/greenfoot.png" alt="greenfoot">
+	<img align="center" width="60" height="60" src="./view/alice.png" alt="alice">
+	<img align="center" width="60" height="60" src="./view/greenfoot.png" alt="greenfoot">
 	<img align="center" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original-wordmark.svg" alt="inkscape" />
 	<img align="center" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="latex" />
-	<img align="center" width="60" height="00" src="./view/overleaf.png" alt="overleaf">
+	<img align="center" width="60" height="60" src="./view/overleaf.png" alt="overleaf">
 	<img align="center" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original-wordmark.svg" alt="moodle" />
 	<img align="center" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="arduino" />
 	<img align="center" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" />
-	<img align="center" width="60" height="00" src="./view/beaglebone.png" alt="beaglebone">
-	<img align="center" width="60" height="00" src="./view/inteledison.png" alt="inteledison">
-	<img align="center" width="60" height="00" src="./view/terminal.png" alt="terminal">
+	<img align="center" width="60" height="60" src="./view/beaglebone.png" alt="beaglebone">
+	<img align="center" width="60" height="60" src="./view/inteledison.png" alt="inteledison">
+	<img align="center" width="60" height="60" src="./view/terminal.png" alt="terminal">
 	<img align="center" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" />
 	<img align="center" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" alt="ssh" />
-	<img align="center" width="60" height="00" src="./view/apache-netbeans.png" alt="apache-netbeans">
-	<img align="center" width="60" height="00" src="./view/geany.png" alt="geany">
-	<img align="center" width="60" height="00" src="./view/sublimetext.png" alt="sublimetext">
-	<img align="center" width="60" height="00" src="./view/spyder.png" alt="spyder">
+	<img align="center" width="60" height="60" src="./view/apache-netbeans.png" alt="apache-netbeans">
+	<img align="center" width="60" height="60" src="./view/geany.png" alt="geany">
+	<img align="center" width="60" height="60" src="./view/sublimetext.png" alt="sublimetext">
+	<img align="center" width="60" height="60" src="./view/spyder.png" alt="spyder">
 	<img align="center" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda" />
 	<img align="center" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" />
 	<img align="center" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio"/>
 	<img align="center" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" />
 	<img align="center" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" />
-	<img align="center" width="60" height="00" src="./view/google-drive.png" alt="google-drive">
-	<img align="center" width="60" height="00" src="./view/one-drive.png" alt="one-drive">
-	<img align="center" width="60" height="00" src="./view/google-earth.png" alt="google-earth">
-	<img align="center" width="60" height="00" src="./view/kturtle.png" alt="kturtle">
-	<img align="center" width="60" height="00" src="./view/postman.png" alt="postman">
-	<img align="center" width="60" height="00" src="./view/xournal.png" alt="xournal">
-	<img align="center" width="60" height="00" src="./view/loom.png" alt="loom">
-	<img align="center" width="60" height="00" src="./view/tinkercad.png" alt="tinkercad">
+	<img align="center" width="60" height="60" src="./view/google-drive.png" alt="google-drive">
+	<img align="center" width="60" height="60" src="./view/one-drive.png" alt="one-drive">
+	<img align="center" width="60" height="60" src="./view/google-earth.png" alt="google-earth">
+	<img align="center" width="60" height="60" src="./view/kturtle.png" alt="kturtle">
+	<img align="center" width="60" height="60" src="./view/postman.png" alt="postman">
+	<img align="center" width="60" height="60" src="./view/xournal.png" alt="xournal">
+	<img align="center" width="60" height="60" src="./view/loom.png" alt="loom">
+	<img align="center" width="60" height="60" src="./view/tinkercad.png" alt="tinkercad">
 </details>
 
 ### Sejam todas e todos bem-vindos!
